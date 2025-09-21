@@ -10,7 +10,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Title</title>
-</head>
+</head>1
 <body>
 <a href="/index.html">메인</a>
 <table>
